@@ -1,6 +1,6 @@
 {
   "name": "galetska2004",
-  "version": "1.0.5",
+  "version": "1.0.1",
   "description": "demonstrayionStudy",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,9 @@
     "trukytnuk": "1.0.0",
     "galetska222": "1.0.1",
     "smetanka": "1.0.2",
-    "morvunka228": "1.0.3"
+    "morvunka228": "1.0.3",
+    "paket2004": "1.1.9",
+    "paketusko228": "1.0.1"
     },
   "author": "",
   "license": "ISC",
